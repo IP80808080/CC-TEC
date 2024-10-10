@@ -19,11 +19,11 @@ streamlit run main.py
 ```
 
 ## Datasets
-### Iris Dataset: Classify iris species using sepal and petal measurements.
-### Wine Dataset: Predict wine cultivar based on chemical properties.
-### Breast Cancer Dataset: Classify tumors as malignant or benign using cell nucleus features.
+Iris Dataset: Classify iris species using sepal and petal measurements.
+Wine Dataset: Predict wine cultivar based on chemical properties.
+Breast Cancer Dataset: Classify tumors as malignant or benign using cell nucleus features.
 
 ## Algorithms
-### K-Nearest Neighbors (KNN): Classifies based on proximity to nearest data points.
-### Random Forest: An ensemble of decision trees to improve prediction accuracy.
-### Support Vector Machines (SVM): Finds the optimal hyperplane to separate classes.
+K-Nearest Neighbors (KNN): Classifies based on proximity to nearest data points.
+Random Forest: An ensemble of decision trees to improve prediction accuracy.
+Support Vector Machines (SVM): Finds the optimal hyperplane to separate classes.
